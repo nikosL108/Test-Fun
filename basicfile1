@@ -3,5 +3,8 @@ using namespace std;
 int main()
 {
 string goodjob = "We did it!";
+int number = 2;
+int foo;
+add 1 + number = foo;
 return 0;
 }
